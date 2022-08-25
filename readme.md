@@ -14,7 +14,7 @@
 
 | Join room screen | Chat screen | Private chat screen |
 | ------ | ------ | ------ |
-| <img src="https://github.com/vhludnev/socketio-chat-pro/blob/main/previews/joinroom.png" width="200" alt="join room screen" /> | <img src="https://github.com/vhludnev/socketio-chat-pro/blob/main/previews/chatscreen.png" width="200" alt="chat screen" /> | <img src="https://github.com/vhludnev/socketio-chat-pro/blob/main/previews/privatechat.png" width="200" alt="private chat screen" /> |
+| <img src="https://github.com/vhludnev/socketio-chat-pro/blob/main/previews/joinroom.png" width="200" alt="join room screen" /> | <img src="https://github.com/vhludnev/socketio-chat-pro/blob/main/previews/chatscreen.png" width="300" alt="chat screen" /> | <img src="https://github.com/vhludnev/socketio-chat-pro/blob/main/previews/privatechat.png" width="300" alt="private chat screen" /> |
 
 <br/><br/>
 
